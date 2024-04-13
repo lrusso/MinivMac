@@ -1,6 +1,6 @@
 # MinivMac
 
-Mini vMac emulator in JavaScript.
+Mini vMac emulator in JavaScript and WebAssembly.
 
 ![alt screenshot](https://raw.githubusercontent.com/lrusso/MinivMac/main/MinivMac.png)
 
